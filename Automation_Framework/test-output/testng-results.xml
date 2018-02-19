@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="126030" started-at="2018-02-16T17:13:19Z" finished-at="2018-02-16T17:15:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="126030" started-at="2018-02-16T17:13:19Z" finished-at="2018-02-16T17:15:25Z">
+      <class name="TestScripts.ValidateFileUploadProcess">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:TestScripts.ValidateFileUploadProcess@26653222]" name="beforeMethod" is-config="true" duration-ms="16736" started-at="2018-02-16T22:43:19Z" finished-at="2018-02-16T22:43:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestScripts.ValidateFileUploadProcess.ValidateFileUploadProcess_FileSizes() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ValidateFileUploadProcess_FileSizes()[pri:0, instance:TestScripts.ValidateFileUploadProcess@26653222]" name="ValidateFileUploadProcess_FileSizes" duration-ms="109263" started-at="2018-02-16T22:43:36Z" finished-at="2018-02-16T22:45:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateFileUploadProcess_FileSizes -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:TestScripts.ValidateFileUploadProcess@26653222]" name="afterMethod" is-config="true" duration-ms="3" started-at="2018-02-16T22:45:25Z" finished-at="2018-02-16T22:45:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestScripts.ValidateFileUploadProcess.ValidateFileUploadProcess_FileSizes() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:TestScripts.ValidateFileUploadProcess@26653222]" name="afterSuite" is-config="true" duration-ms="598" started-at="2018-02-16T22:45:25Z" finished-at="2018-02-16T22:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- TestScripts.ValidateFileUploadProcess -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
